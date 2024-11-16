@@ -1,0 +1,22 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  width: 360px;
+  margin-top: 0;
+  padding-left: 0;
+  padding-bottom: 20px;
+  list-style: none;
+  font-size: 17px;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  font-weight: 700;
+}
+
+.alterText {
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: 0;
+  margin-left: 0;
+  font-size: 22px;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}

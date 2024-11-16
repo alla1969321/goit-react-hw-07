@@ -1,0 +1,46 @@
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  background: linear-gradient(
+    189deg,
+    rgba(0, 208, 226, 1) 0%,
+    rgba(26, 164, 190, 1) 41%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border: 1px solid black;
+  border-radius: 4px;
+  box-shadow: 4px 6px 5px 0px rgba(75, 109, 115, 1);
+}
+
+.title {
+  position: relative;
+  margin-top: 0;
+  margin-right: 0;
+  margin-left: 0;
+  padding-top: 20px;
+  font-size: 42px;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+.subtitle {
+  margin-right: 0;
+  margin-left: 0;
+  font-size: 30px;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+.alterText {
+  margin-right: 0;
+  margin-left: 0;
+  font-size: 22px;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
